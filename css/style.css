@@ -842,7 +842,7 @@ body {
 body {
   font: 14px "Helvetica Neue", Helvetica, Arial, sans-serif;
   -webkit-text-size-adjust: 100%;
-  cursor: url("images/icon.png"), default;
+  cursor: default;
 }
 .outer {
   max-width: 964px;
